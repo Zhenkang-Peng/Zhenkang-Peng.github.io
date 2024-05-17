@@ -24,9 +24,9 @@ author:
   avatar           : "pzk.png"
   name             : "Zhenkang Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "Ph.D. in Shanghai Jiao Tong University"
+  #location         : "Shanghai, China"
+  #employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "zhenkang1397@gmail.com" 
 
