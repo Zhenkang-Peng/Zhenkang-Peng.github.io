@@ -10,7 +10,7 @@ The following are the topics of my talk, along with the location, time, and purp
 * **Transformer-Based Choice Model: A Tool for Assortment Optimization Evaluation**
 
   * The 34th POMS Annual Conference, Minneapolis, U.S.A, April 25-29, 2024.
-  * The 15th International Annual Conference of Chinese Scholars in Management Science and Engineering(CSAMSE), Shengzheng,China, July 29-30, 2023.
+  * The 15th International Annual Conference of Chinese Scholars in Management Science and Engineering(CSAMSE), Shengzheng, China, July 29-30, 2023.
 
 * **Model Stacking with Flexible Data Aggregation: Inventory Management in Meituan’s Flash Sales Mode**
 
