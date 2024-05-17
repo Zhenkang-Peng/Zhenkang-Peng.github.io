@@ -12,7 +12,8 @@ The following are the topics of my talk, along with the location, time, and purp
 1. The 34th POMS Annual Conference, Minneapolis, U.S.A, April 25-29, 2024.
 2. The 15th International Annual Conference of Chinese Scholars in Management Science and Engineering(CSAMSE), Shengzheng,China, July 29-30, 2023.
 
-2, Model Stacking with Flexible Data Aggregation: Inventory Management in Meituan’s Flash Sales Mode
+2, Model Stacking with Flexible Data Aggregation: Inventory Management in Meituan’s 
+   Flash Sales Mode
 ------
 1. The 4th National Supply Chain and Operations Management Academic Annual Conference (ISCOM), Shanghai, China, December 2-3, 2023.
 
