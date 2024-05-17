@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV]{https://www.overleaf.com/project/6565c16da9cce5bfc7875234}"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+
 
 {% include base_path %}
 
