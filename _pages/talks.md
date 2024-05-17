@@ -4,6 +4,8 @@ title: "Conference and Talks"
 permalink: /talks/
 author_profile: true
 ---
+The following are the topics of my talk, along with the location, time, and purpose of the talk.
+
 
 1, Transformer-Based Choice Model: A Tool for Assortment Optimization Evaluation
 ------
