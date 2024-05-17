@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Zhenkang Peng. 
+Hi, I am Zhenkang Peng.  I received my Ph.D. in Management Science and Engineering at the Shanghai Jiao Tong University in 2024, advised by [Prof. Ying Rong](https://www.acem.sjtu.edu.cn/faculty/rongying.html#container). I earned my Bachelor’s in Information Management and Information System from Dalian Univeisity of Technology in 2019.
 
 A data-driven personal website
 ======
