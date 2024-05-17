@@ -16,6 +16,5 @@ The following are the topics of my talk, along with the location, time, and purp
 
    * The 4th National Supply Chain and Operations Management Academic Annual Conference (ISCOM), Shanghai, China, December 2-3, 2023.
 
-3, Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making
-------
-* The 14th POMS-HK International Conference, Hongkong, China, sJanuary 5-6, 2024
+* **Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making**
+  * The 14th POMS-HK International Conference, Hongkong, China, sJanuary 5-6, 2024
