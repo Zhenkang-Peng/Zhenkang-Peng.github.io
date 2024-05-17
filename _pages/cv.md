@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can download my [CV]{https://github.com/Zhenkang-Peng/Zhenkang-Peng.github.io/blob/master/files/resume.pdf} by clicking it.
+You can download my [CV]{https://raw.githubusercontent.com/Zhenkang-Peng/Zhenkang-Peng.github.io/master/files/resume.pdf} by clicking it.
