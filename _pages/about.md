@@ -8,6 +8,8 @@ redirect_from:
 ---
 Hi, I am Zhenkang Peng.  I received my Ph.D. in Management Science and Engineering at the Shanghai Jiao Tong University in 2024, advised by [Prof. Ying Rong](https://www.acem.sjtu.edu.cn/faculty/rongying.html#container). I earned my Bachelor’s in Information Management and Information System from Dalian Univeisity of Technology in 2019.
 
+My research focuses on data-driven decision-making for both offline and online learning under uncertainty. I aim to develop methodologies and practical solutions by integrating tools and concepts from optimization, machine learning, and statistics. Additionally, I completed a one-year internship at Meituan, where I actively contributed to designing and enhancing their ordering algorithm.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
