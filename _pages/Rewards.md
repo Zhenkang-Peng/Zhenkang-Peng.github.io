@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Rewards"
+title: Other Awards
 permalink: /Rewards/
 author_profile: true
 ---
