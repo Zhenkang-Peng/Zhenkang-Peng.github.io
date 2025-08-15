@@ -55,7 +55,7 @@ atom_feed:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pzk.png"
+  avatar           : "pzk.jpg"
   name             : "Zhenkang Peng"
   pronouns         : # example: "she/her"  
   bio              : "Post-doctoral Fellow in The Chinese University of Hong Kong"
