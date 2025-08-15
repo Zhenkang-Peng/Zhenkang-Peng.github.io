@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Rewards"
+title: Rewards"
 permalink: /Rewards/
 author_profile: true
 ---
 
-1. 2024 POMS EEDSA Honorable Mention Award for Asia-Pacific Region.
-2. 2024 POMS International Conference in China Best Paper Award - Nomination.
-3. SCOM 2023 Shanshu Technology Practice-Driven Research Competition Paper 3rd Prize.
+1. Shanghai Jiao Tong University 2024 Outstanding PhD Graduate Development Scholarship.
+2. 2024 Graduate High-level Academic Paper Award in Antai School of Economics and Management, Shanghai Jiao Tong University.
+3. ISCOM 2023 Shanshu Technology Practice-Driven Research Competition Paper, Third Prize.
