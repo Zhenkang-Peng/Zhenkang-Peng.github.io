@@ -12,9 +12,9 @@ author_profile: true
 
 Working Papers
 ------
-1. Li, C., **Peng, Z.** & Rong, Y. (2025). Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making. arXiv preprint arXiv:2311.17326. (Minor Revision in Management Science) [Paper Link](https://arxiv.org/abs/2311.17326)
+1. Li, C., **Peng, Z.** & Rong, Y. (2025). Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making. arXiv preprint arXiv:2311.17326. (**Minor Revision in Management Science**) [Paper Link](https://arxiv.org/abs/2311.17326)
    * Nomination, Best Student Paper Award in 2024 POMS International Conference in China.
-2. **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2025) Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing. (Major Revision in Manufacturing & Service Operations Management)
+2. **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2025) Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing. (**Major Revision in Manufacturing & Service Operations Management**)
    * [First Price, 2025 M&SOM Practice-based Competition.](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
 3. **Peng, Z.**, Li, C., Rong, Y., & Zhang, R. (2025) Synthesizing Evidence: Data-Pooling as a Tool for Treatment Selection in Online Experiments. (Unsubmitted manuscript)
 4. Liao, X., **Peng, Z.**, Rong, Y. Theory-Guided Deep Learning for Perishable Inventory Systems with Random Lead Time. (Unsubmitted manuscript)
