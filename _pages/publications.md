@@ -17,7 +17,7 @@ Working Papers
 2. **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2025) Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing. (**Major Revision in Manufacturing & Service Operations Management**) [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5693742)
    * [First Prize, 2025 M&SOM Practice-based Competition.](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
 3. **Peng, Z.**, Li, C., Rong, Y., & Zhang, R. (2025) Synthesizing Evidence: Data-Pooling as a Tool for Treatment Selection in Online Experiments. (**Major Revision in Management Science**) [Paper Link](https://arxiv.org/abs/2508.10331)
-4. Liao, X., **Peng, Z.**, Rong, Y. Theory-Guided Deep Learning for Perishable Inventory Systems with Random Lead Time. (**Unsubmitted manuscript**)
+4. Liao, X., **Peng, Z.**, &  Rong, Y. Theory-Guided Deep Learning for Perishable Inventory Systems with Random Lead Time. (**Unsubmitted manuscript**)
 
 
 Published/Accepted Papers
