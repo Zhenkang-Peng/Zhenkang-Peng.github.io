@@ -8,12 +8,14 @@ The following are the topics of my talk, along with the location, time, and purp
 
 * **Synthesizing Evidence: Data-Pooling as a Tool for Treatment Selection in Online Experiments**
 
+  * The 16th POMS-HK International Conference, Shenzhen, China, January 2-4, 2026.
   * The 17th International Annual Conference of Chinese Scholars in Management Science and Engineering (CSAMSE), Chengdu, China, July 26-27, 2025.
   * The 2025 POMS International Conference in China, Danzhou, China, July 11-14, 2025.
 
 
 * **Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing**
   
+  * The 16th POMS-HK International Conference, Shenzhen, China, January 2-4, 2026.
   * The 15th POMS-HK International Conference, Hong Kong, China, January 3-5, 2025.
   * 2024 INFORMS Annual Meeting, Seattle, U.S.A, October 20-23,2024.
   * The 4th National Supply Chain and Operations Management Academic Annual Conference (ISCOM), Shanghai, China, December 2-3, 2023.
