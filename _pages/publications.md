@@ -20,7 +20,7 @@ Working Papers
 
 Published/Accepted Papers
 ------
-1.  **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2026) Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing.  Manufacturing & Service Operations Management. Accept [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5693742)
+1. **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2026) Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing.  Manufacturing & Service Operations Management. Accept [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5693742)
    * [First Prize, 2025 M&SOM Practice-based Competition.](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
 2. **Peng, Z.**, Rong, Y. & Zhu, T. (2024). Transformer-Based Choice Model: A Tool for Assortment Optimization Evaluation. Naval Research Logistics (NRL), 1–24. [Paper Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.22183)
    * Honorable Mention, 2024 POMS EEDSA Award for Asia-Pacific Region.
