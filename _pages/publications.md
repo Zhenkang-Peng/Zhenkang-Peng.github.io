@@ -20,7 +20,7 @@ Published/Accepted Papers
 ------
 1. Li, C., **Peng, Z.** & Rong, Y. (2026). Mostly Beneficial Clustering: Aggregating Data for Decision Making. *Management Science, Forthcoming.*  [Paper Link](https://arxiv.org/abs/2311.17326)
    * Nomination, Best Student Paper Award in 2024 POMS International Conference in China.
-2. **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2026) Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing.  *Manufacturing & Service Operations Management, Forthcoming.* [Paper Link](https://pubsonline.informs.org/doi/10.1287/msom.2025.0313)
+2. **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2026) Flexible Data Aggregation for Prediction and Decision Making with Contextual Information: Applications in Retailing. *Manufacturing & Service Operations Management 28(4):1091-1111.*[Paper Link](https://pubsonline.informs.org/doi/10.1287/msom.2025.0313)
    * [First Prize, 2025 M&SOM Practice-based Competition.](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
 3. **Peng, Z.**, Rong, Y. & Zhu, T. (2024). Transformer-Based Choice Model: A Tool for Assortment Optimization Evaluation. *Naval Research Logistics (NRL), 1–24.* [Paper Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.22183)
    * Honorable Mention, 2024 POMS EEDSA Award for Asia-Pacific Region.
