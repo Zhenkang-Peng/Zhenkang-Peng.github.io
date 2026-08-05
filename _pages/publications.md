@@ -22,7 +22,7 @@ Published/Accepted Papers
    * Nomination, Best Student Paper Award in 2024 POMS International Conference in China.
 2. **Peng, Z.**, Li, C., Rong, Y., Luo, Z., Ma, G. & Zhao, M. (2026) Flexible Data Aggregation for Prediction and Decision Making with Contextual Information: Applications in Retailing. *Manufacturing & Service Operations Management 28(4):1091-1111.*[Paper Link](https://pubsonline.informs.org/doi/10.1287/msom.2025.0313)
    * [First Prize, 2025 M&SOM Practice-based Competition.](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
-3. **Peng, Z.**, Rong, Y. & Zhu, T. (2024). Transformer-Based Choice Model: A Tool for Assortment Optimization Evaluation. *Naval Research Logistics (NRL), 1–24.* [Paper Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.22183)
+3. **Peng, Z.**, Rong, Y. & Zhu, T. (2024). Transformer-Based Choice Model: A Tool for Assortment Optimization Evaluation. *Naval Research Logistics (NRL),71(6),854–877.* [Paper Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.22183)
    * Honorable Mention, 2024 POMS EEDSA Award for Asia-Pacific Region.
 4. Ding, J. & **Peng, Z.** (2024). Heuristics for Perishable Inventory Systems Under Mixture Issuance Policies. *Omega, 126:103078.* [Paper Link](https://www.sciencedirect.com/science/article/pii/S0305048324000458)
 5. Jeon, D., Lim, M. K., **Peng, Z.**, & Rong, Y. (2021). Got organic milk? Joint inventory model with supply uncertainties and partial substitution. *Operations Research Letters,49(5), 663–670.* [Papaer Link](https://www.sciencedirect.com/science/article/pii/S0167637721001139)
